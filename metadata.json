@@ -1,0 +1,6 @@
+{
+  "name": "Habit & Todo Matrix Tracker",
+  "description": "Full-stack Habit and Todo Tracker with matrix history display, progress analytics, JWT authentication, and bulk data synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
