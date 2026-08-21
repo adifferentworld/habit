@@ -1,6 +1,5 @@
 {
-  "name": "Progress Tracker",
-  "description": "A dreamy glassy NEET habit and todo tracker with Excel-style daily matrix, streak analytics, and local browser persistence.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+    "name": "Progress Tracker",
+    "description": "A dreamy glassy NEET habit and todo tracker with Excel-style daily matrix, streak analytics, and local browser persistence.",
+    "requestFramePermissions": []
 }
